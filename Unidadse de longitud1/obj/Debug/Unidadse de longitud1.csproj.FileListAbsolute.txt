@@ -1,0 +1,9 @@
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\bin\Debug\Unidadse de longitud1.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\bin\Debug\Unidadse de longitud1.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\bin\Debug\Unidadse de longitud1.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\obj\Debug\Unidadse de longitud1.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\obj\Debug\Unidadse_de_longitud.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\obj\Debug\Unidadse_de_longitud.Properties.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\obj\Debug\Unidadse de longitud1.csproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\obj\Debug\Unidadse de longitud1.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Unidadse de longitud1\Unidadse de longitud1\obj\Debug\Unidadse de longitud1.pdb

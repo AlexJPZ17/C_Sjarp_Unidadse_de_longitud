@@ -1,0 +1,9 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\bin\Debug\Unidadse de longitud.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\bin\Debug\Unidadse de longitud.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\bin\Debug\Unidadse de longitud.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\obj\Debug\Unidadse de longitud.csprojResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\obj\Debug\Unidadse_de_longitud.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\obj\Debug\Unidadse_de_longitud.Properties.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\obj\Debug\Unidadse de longitud.csproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\obj\Debug\Unidadse de longitud.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Unidadse de longitud\obj\Debug\Unidadse de longitud.pdb
